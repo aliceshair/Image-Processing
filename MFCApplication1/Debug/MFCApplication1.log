@@ -1,0 +1,43 @@
+﻿生成启动时间为 2020/5/15 8:05:37。
+     1>项目“D:\计算机专业的作业\数字图像处理\实验五\实验5\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\inc" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt DlgSmooth.cpp
+         DlgSmooth.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\计算机专业的作业\数字图像处理\实验五\实验5\Debug\MFCApplication1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\Lib\x86" kinect20.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\计算机专业的作业\数字图像处理\实验五\实验5\Debug\MFCApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\计算机专业的作业\数字图像处理\实验五\实验5\Debug\MFCApplication1.lib" /MACHINE:X86 Debug\MFCApplication1.res
+         Debug\BitPlane.obj
+         Debug\BMPSmooth.obj
+         Debug\ChangeLignt.obj
+         Debug\Dib.obj
+         Debug\DlgAddNoise.obj
+         Debug\DlgFilterSize.obj
+         Debug\DlgGammaTrans.obj
+         Debug\DlgGetStructElem.obj
+         Debug\DlgHistogram.obj
+         Debug\DlgImgInfo.obj
+         Debug\DlgIntensity.obj
+         Debug\DlgInverse_L.obj
+         Debug\DlgInverse_V.obj
+         Debug\DlgLinerPara.obj
+         Debug\DlgLogTranse.obj
+         Debug\DlgLTrans.obj
+         Debug\DlgMidFilter.obj
+         Debug\DlgSmooth.obj
+         Debug\DlgThreshold.obj
+         Debug\DlgVTrans.obj
+         Debug\DrawHist.obj
+         Debug\HistRange.obj
+         Debug\Inverse.obj
+         Debug\MainFrm.obj
+         Debug\MFCApplication1.obj
+         Debug\MFCApplication1Doc.obj
+         Debug\MFCApplication1View.obj
+         Debug\Morphologic.obj
+         Debug\PointTrans.obj
+         Debug\stdafx.obj
+         MFCApplication1.vcxproj -> D:\计算机专业的作业\数字图像处理\实验五\实验5\Debug\MFCApplication1.exe
+     1>已完成生成项目“D:\计算机专业的作业\数字图像处理\实验五\实验5\MFCApplication1\MFCApplication1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.51
